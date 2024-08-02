@@ -25,4 +25,3 @@ Feel free to contribute by adding more random code snippets or enhancing the exi
 
 This repository is a place for experimenting, learning, and having fun with code. The contents may range from simple scripts to more complex programs, and they are not always production-ready. Enjoy exploring the ideas and feel free to reach out with any questions or suggestions!
 ```
-
